@@ -1,26 +1,21 @@
-# 🏸 Análise de dados: Compra de carros 🚗
+# 🏸 Análise de dados: Compra de carros 📰
 
-Este é um projeto de machine learning para análise de dados de vendas de carros, com informações de clientes e valores pagos pelos veículos, os dados foram disponibilizados na plataforma [Kaggle](https://www.kaggle.com/datasets/dev0914sharma/car-purchasing-model).
+Este é um projeto de machine learning para análise de dados de usuários que efetuaram ou não uma compra, os dados foram disponibilizados na plataforma [Kaggle](https://www.kaggle.com/datasets/dragonheir/logistic-regression).
 
-O caso proposto e o problema a ser solucionado:
-*"Você está trabalhando como cientista de dados em uma empresa automobilística.
-Você gostaria de desenvolver um modelo para prever o valor total que os clientes estão dispostos a pagar pelo carro novo. Essas informações serão utilizadas pela empresa para fazer o marketing direcionado com base no perfil do cliente."*
-
-Sobre o conjunto de dados:
-*"Este arquivo contém as informações das várias pessoas com os seguintes detalhes que podem nos ajudar a descobrir a melhor previsão e também nos ajudar a treinar nosso modelo para prever o valor correto e obter um bom F1 Score."*
+Não estão definidos no dataset o caso proposto e o problema a ser solucionado, então baseados nos dados serem de compras efetuadas ou não por usuários e arquivo de dados ser nomeado como "anúncios de redes sociais", será adotada a seguinte interpretação: *O arquivo Social_Network_Ads.csv contém dados de usuários de uma rede social que tiveram alguma interação com um anúncio e foram incentivados ou não a efetuar uma compra, sendo assim o objetivo do desenvolvimento do modelo será em prever quais clientes estimulados pelo(s) anúncio(s) realizará ou não uma compra.*
 
 ## Demanda da análise
 
-- Analisar a correlação dos dados dos clientes com os valores de compra de carros.
-- Gerar um modelo preditivo para o valor que um cliente está disposto a pagar por um carro novo.
-- Simular novas entradas de dados e previsão de valor a pagra por um carro novo.
+- Analisar a correlação dos dados dos usuários.
+- Gerar um modelo preditivo de compra ou não por um usuário.
+- Simular novas entradas de dados e previsões.
   
 ## Tópicos da análise
 
 1. Análise das medidas estatísticas dos dados
 2. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
 3. Correlação entre as variáveis
-4. Criação do modelo de regressão linear múltipla
+4. Criação do modelo de regressão logística
    1. Separação dos dados de treino e teste 
    2. Treinamento do modelo
    3. Predições do modelo com dados de teste
