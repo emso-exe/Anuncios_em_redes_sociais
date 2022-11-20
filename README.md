@@ -1,4 +1,4 @@
-# 🏸 Análise de dados: Compra de carros 📰
+# 🏸 Análise de dados: Anúncios de redes sociais 📰
 
 Este é um projeto de machine learning para análise de dados de usuários que efetuaram ou não uma compra, os dados foram disponibilizados na plataforma [Kaggle](https://www.kaggle.com/datasets/dragonheir/logistic-regression).
 
