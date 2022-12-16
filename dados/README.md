@@ -2,7 +2,7 @@
 
 Arquivo | Link
 --------|-------
-Social_Network_Ads.csv    |   https://www.kaggle.com/datasets/dragonheir/logistic-regression?select=Social_Network_Ads.csv
+Social_Network_Ads.csv   |   https://www.kaggle.com/datasets/dragonheir/logistic-regression?select=Social_Network_Ads.csv
 
 ## Licença
 
