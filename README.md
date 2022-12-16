@@ -16,12 +16,11 @@ Não estão definidos no dataset o caso proposto e o problema a ser solucionado,
 2. Distribuição dos dados entre as variáveis independentes (features) e dependente (target)
 3. Correlação entre as variáveis
 4. Criação do modelo de regressão logística
-   1. Separação dos dados de treino e teste 
-   2. Treinamento do modelo
-   3. Predições do modelo com dados de teste
-   4. Resíduo, diferença entre dados de teste e dados previstos
-   5. Métricas de performance
-   6. Previsões com novos dados
+   1. Separação dos dados de treino e teste
+   2. Treinamento e predições do modelo
+   3. Métricas do modelo
+   4. Previsões com novos dados
+5. Conclusão
 
 ## 💻 Tecnologias
 
@@ -34,6 +33,7 @@ Não estão definidos no dataset o caso proposto e o problema a ser solucionado,
     - Biblioteca Warnings
     - Biblioteca Tabulate
     - Biblioteca SciKit-learn
+    - Biblioteca Imbalanced-learn
 
 ## 💳 Créditos
 
