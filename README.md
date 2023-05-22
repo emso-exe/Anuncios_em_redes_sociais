@@ -1,4 +1,4 @@
-# 🏸 Análise de dados: Anúncios em redes sociais 📰
+# :mag_right: Análise de dados: Anúncios em redes sociais 📰
 
 Este é um projeto de machine learning para análise de dados de usuários que efetuaram ou não uma compra, os dados foram disponibilizados na plataforma [Kaggle](https://www.kaggle.com/datasets/dragonheir/logistic-regression).
 
