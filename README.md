@@ -4,12 +4,14 @@ Este é um projeto de machine learning para análise de dados de usuários que e
 
 Não estão definidos no dataset o caso proposto e o problema a ser solucionado, então baseados nos dados serem de compras efetuadas ou não por usuários e arquivo de dados ser nomeado como "anúncios de redes sociais", será adotada a seguinte interpretação: *O arquivo Social_Network_Ads.csv contém dados de usuários de uma rede social que tiveram alguma interação com um anúncio e foram incentivados ou não a efetuar uma compra, sendo assim o objetivo do desenvolvimento do modelo será em prever quais clientes estimulados pelo(s) anúncio(s) realizará ou não uma compra.*
 
+
 ## 📃 Demanda da análise
 
 - Analisar a correlação dos dados dos usuários.
 - Gerar um modelo preditivo de compra ou não por um usuário.
 - Simular novas entradas de dados e previsões.
   
+
 ## 📋 Tópicos da análise
 
 1. Análise das medidas estatísticas dos dados
@@ -22,6 +24,7 @@ Não estão definidos no dataset o caso proposto e o problema a ser solucionado,
    4. Previsões com novos dados
 5. Conclusão
    
+
 ## :gem: Resultados do modelo
 
 Após efetuar ajustes nos dados, a fim de identificar padrões e correlações que auxiliaram na interpretação das informações sobre usuários que realizaram uma compra ou não, foi construído um modelo com **acurácia de 90%** e **pontuação média de 84,5%**. Foram executados testes com novas entradas de dados indicando clientes que potencialmente efetuariam uma compra (comprado: 1) estimulados por um anúncio específico, assim o modelo também irá permitir traçar perfis, baseado nas variáveis independentes, com maior probabilidade de efetuar uma compra e assim direcionar os anúncios para esse público específico.
@@ -39,6 +42,7 @@ Após efetuar ajustes nos dados, a fim de identificar padrões e correlações q
 |8|36|0|1|114059.00|0|
 |9|50|0|1|133254.00|1|
 
+
 ## 💻 Tecnologias
 
 - Python
@@ -52,9 +56,11 @@ Após efetuar ajustes nos dados, a fim de identificar padrões e correlações q
     - Biblioteca SciKit-learn
     - Biblioteca Imbalanced-learn
 
+
 ## 💳 Créditos
 
 - [Estênio Mariano](https://github.com/emso-exe)
+
 
 ## 🔖 Licença
 
