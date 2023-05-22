@@ -23,6 +23,15 @@ Não estão definidos no dataset o caso proposto e o problema a ser solucionado,
    3. Métricas do modelo
    4. Previsões com novos dados
 5. Conclusão
+
+
+## 📓 Dicionário de dados
+
+**User ID:** Id exclusivo para identificação do usuário<br>
+**Gender:** Gênero, masculino ou feminino<br>
+**Age:** Idade do usuário<br>
+**EstimatedSalary:** Salário estimado do usuário<br>
+**Purchased:** Flag, 1 se o usuário efetuou uma compra via anúncio ou 0 se não houve compra<br>
    
 
 ## :gem: Resultados do modelo
